@@ -1,3 +1,4 @@
+//this is a simple controller class
 package gr.hua.dit.controller;
 
 import javax.servlet.http.HttpServletRequest;
